@@ -14,7 +14,7 @@ CARA CLONE PROJECT DI GITHUB
 
 CARA PUSH PROJECT DI GITHUB
 	- Buka www.github.com
-	- Login ke akun andra
+	- Login ke akun anda
 	- lalu klik new repository (di ujung kanan atas)
 	- Isi nama Repository name dan Deskripsinya
 	- Copy Url Html/ssh
