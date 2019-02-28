@@ -26,4 +26,4 @@ CARA PUSH PROJECT DI GITHUB
 		contoh : git commit -m "Upload Pertama"
 	- lalu ketikan 'git remote add origin (tempat anda menyimpan file)'
 		contoh : git remote add origin https://github.com/dradph/Crud-Restoran
-	- lalu yang terakhir 'git push add origin'
+	- lalu yang terakhir 'git push origin master'
