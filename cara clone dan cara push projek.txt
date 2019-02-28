@@ -1,0 +1,29 @@
+CEK VERSION DI GITBASH
+	- Buka Gitbash lalu ketikan 'git --version'
+
+CARA CLONE PROJECT DI GITHUB
+	- Buka www.github.com
+	- cari file yang ingin anda clone
+	- tekan tombol 'Clone or Download'
+	- Copy Url html/ssh File tersebut
+	- Buat Sebuah Folder tempat anda menyimpan hasil clone	
+	- Klik kanan di folder tersebut lalu klik 'GitBash Here'
+	- lalu ketikan 'git clone (paste hasil copy)'
+		contoh : git init https://github.com/mrobbizulfikar/JAVA-Desktop.git
+	- Selesai
+
+CARA PUSH PROJECT DI GITHUB
+	- Buka www.github.com
+	- Login ke akun andra
+	- lalu klik new repository (di ujung kanan atas)
+	- Isi nama Repository name dan Deskripsinya
+	- Copy Url Html/ssh
+	- Siapkan Satu Folder yang sudah terisi projek
+	- Klik kanan di folder tersebut lalu klik 'GitBash Here'
+	- Mulai dengan ketik 'git init' Tekan enter
+	- lalu 'git add *' yang berarti anda akan memasukan semua file yang ada di dalam folder tersebut
+	- kemudian 'git commit -m "isi komen bebas"'
+		contoh : git commit -m "Upload Pertama"
+	- lalu ketikan 'git remote add origin (tempat anda menyimpan file)'
+		contoh : git remote add origin https://github.com/dradph/Crud-Restoran
+	- lalu yang terakhir 'git push add origin'
