@@ -9,7 +9,7 @@ CARA CLONE PROJECT DI GITHUB
 	- Buat Sebuah Folder tempat anda menyimpan hasil clone	
 	- Klik kanan di folder tersebut lalu klik 'GitBash Here'
 	- lalu ketikan 'git clone (paste hasil copy)'
-		contoh : git init https://github.com/mrobbizulfikar/JAVA-Desktop.git
+		contoh : git clone https://github.com/mrobbizulfikar/JAVA-Desktop.git
 	- Selesai
 
 CARA PUSH PROJECT DI GITHUB
